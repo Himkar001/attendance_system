@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pkl
+.env
+build/
+dist/
+.DS_Store
+Known_faces/
